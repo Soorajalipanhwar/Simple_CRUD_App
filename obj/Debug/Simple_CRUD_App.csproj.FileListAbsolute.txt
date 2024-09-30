@@ -1,0 +1,20 @@
+C:\Users\Sooraj\source\repos\Simple_CRUD_App\Simple_CRUD_App\bin\Debug\Simple_CRUD_App.exe.config
+C:\Users\Sooraj\source\repos\Simple_CRUD_App\Simple_CRUD_App\bin\Debug\Simple_CRUD_App.exe
+C:\Users\Sooraj\source\repos\Simple_CRUD_App\Simple_CRUD_App\bin\Debug\Simple_CRUD_App.pdb
+C:\Users\Sooraj\source\repos\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.csproj.AssemblyReference.cache
+C:\Users\Sooraj\source\repos\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.Form1.resources
+C:\Users\Sooraj\source\repos\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.Properties.Resources.resources
+C:\Users\Sooraj\source\repos\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.csproj.GenerateResource.cache
+C:\Users\Sooraj\source\repos\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.csproj.CoreCompileInputs.cache
+C:\Users\Sooraj\source\repos\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.exe
+C:\Users\Sooraj\source\repos\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.pdb
+C:\Users\Sooraj\Desktop\Lab 2\Simple_CRUD_App\Simple_CRUD_App\bin\Debug\Simple_CRUD_App.exe.config
+C:\Users\Sooraj\Desktop\Lab 2\Simple_CRUD_App\Simple_CRUD_App\bin\Debug\Simple_CRUD_App.exe
+C:\Users\Sooraj\Desktop\Lab 2\Simple_CRUD_App\Simple_CRUD_App\bin\Debug\Simple_CRUD_App.pdb
+C:\Users\Sooraj\Desktop\Lab 2\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.csproj.AssemblyReference.cache
+C:\Users\Sooraj\Desktop\Lab 2\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.Form1.resources
+C:\Users\Sooraj\Desktop\Lab 2\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.Properties.Resources.resources
+C:\Users\Sooraj\Desktop\Lab 2\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.csproj.GenerateResource.cache
+C:\Users\Sooraj\Desktop\Lab 2\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.csproj.CoreCompileInputs.cache
+C:\Users\Sooraj\Desktop\Lab 2\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.exe
+C:\Users\Sooraj\Desktop\Lab 2\Simple_CRUD_App\Simple_CRUD_App\obj\Debug\Simple_CRUD_App.pdb
